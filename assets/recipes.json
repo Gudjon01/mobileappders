@@ -1,0 +1,65 @@
+{
+    "recipes": [
+      {
+        "name": "Spaghetti Bolognese",
+        "ingredients": ["spaghetti", "tomato sauce", "ground beef", "onion", "garlic"],
+        "image": "assets/images/spaghetti-bolognese.jpg"
+      },
+      {
+        "name": "Chicken Fry",
+        "ingredients": ["chicken", "olive oil", "rosemary", "garlic", "lemon"],
+        "image": "assets/images/chicken-fry.jpg"
+      },
+      {
+        "name": "Vegan Jamaican Curry",
+        "ingredients": ["grapeseed oil", "tofu", "yellow onion", "red bell pepper", "Jamaican yellow curry powder","zucchini","cremini mushrooms","coconut milk","ground black pepper"],
+        "image": "assets/images/vegan-jamaican-curry.jpg"
+      },
+      {
+        "name": "Greek Potato Salad",
+        "ingredients": ["potatoes", "celery", "Kalamata olives", "red onions", "dill","pimento","olive oil","lemon juice","oregano","salt","black pepper","feta cheese"],
+        "image": "assets/images/greek-potato-salad.jpg"
+      },
+      {
+        "name": "Blackberry Baked Feta",
+        "ingredients": ["feta cheese", "honey", "blackberries"],
+        "image": "assets/images/blackberry-baked-feta.jpg"
+      },
+      {
+        "name": "PB&J Stuffed French Toast",
+        "ingredients": ["brioche bread", "peanut butter", "jelly", "eggs", "milk","cinnamon","butter","powdered sugar"],
+        "image": "assets/images/pbj-stuffed-french-toast.jpg"
+      },
+      {
+        "name": "Creamy Lemon Parmesan Chicken",
+        "ingredients": ["parmesan cheese", "flour", "chicken thighs", "salt", "black pepper","olive oil","garlic","chicken broth","mascarpone","lemon zest","lemon juice","cornstarch","water"],
+        "image": "assets/images/creamy-lemon-parmesan-chicken.jpg"
+      },
+      {
+        "name": "Loaded Steak Fries",
+        "ingredients": ["light beer", "Worcestershire sauce", "red pepper flakes", "garlic", "lime","filet steak","french fries"],
+        "image": "assets/images/loaded-steak-fries.jpg"
+      },
+      {
+        "name": "Chili Oil",
+        "ingredients": ["crushed red pepper", "cinnamon stick", "whole star anise", "Szechuan peppercorns", "granulated garlic","peanut oil"],
+        "image": "assets/images/chili-oil.jpg"
+      },
+      {
+        "name": "Apple Smoothie",
+        "ingredients": ["banana", "apple", "yogurt", "apple juice", "rolled oats","almond butter","maple syrup","cinnamon","nutmeg","cloves"],
+        "image": "assets/images/apple-smoothie.jpg"
+      },
+      {
+        "name": "Tamarind Margarita",
+        "ingredients": ["Tajin", "lime wedge", "ice", "tamarind paste", "silver tequila","agave nectar","lime juice","triple sec"],
+        "image": "assets/images/tamarind-margarita.jpg"
+      },
+      {
+        "name": "Maple Rum Flip",
+        "ingredients": ["rum", "liqueur", "maple syrup", "egg", "rosemary","nutmeg"],
+        "image": "assets/images/maple-rum-flip.jpg"
+      }
+    ]
+  }
+  
